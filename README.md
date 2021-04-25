@@ -21,6 +21,7 @@ Greatingmall Clone Project
 ## 💡 Implement Function
 ### 상품 전체 목록
 <img width="445" alt="후기 검색 뷰 1" src="https://user-images.githubusercontent.com/75306311/115986689-717fd500-a5ec-11eb-88a9-b9362912ae94.png">
+- query parameter로 원하는 값 받기
 <img width="830" alt="후기 검색 뷰 2" src="https://user-images.githubusercontent.com/75306311/115986701-7a70a680-a5ec-11eb-88e8-f93ccd6cb552.png">
 - Q 사용해서 검색하는 필터 구현
 <img width="669" alt="후기 검색뷰 4" src="https://user-images.githubusercontent.com/75306311/115986712-852b3b80-a5ec-11eb-8ee9-c49004cf1480.png">
