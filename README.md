@@ -45,5 +45,3 @@ Greatingmall Clone Project
 <img width="748" alt="후기 업로더 3" src="https://user-images.githubusercontent.com/75306311/115986801-efdc7700-a5ec-11eb-8834-23969d04d6b1.png">
 - csv파일과 uploader.py을 통해서 데이터베이스 관리
 - mysqldump를 활용해서 데이터 복구 및 유지
-### postman
-<img width="296" alt="후기 포스트맨 1" src="https://user-images.githubusercontent.com/75306311/115986822-11d5f980-a5ed-11eb-8ca4-73ac3248f5d2.png">
